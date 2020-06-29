@@ -1,0 +1,2 @@
+This is some note for me!
+Add a .txt file into Github remote repositary.
