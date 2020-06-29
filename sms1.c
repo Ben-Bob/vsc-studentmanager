@@ -71,6 +71,7 @@ void input_1(struct student *pNew)//输入节点的值
 {
 	fflush(stdin);
 	printf("请输入姓名：");
+	printf("Please input the name:\n");
 	gets(pNew->name);
 	if(pNew->name[0]=='#')
 		return; 
